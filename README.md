@@ -41,4 +41,5 @@
   <img src="https://img.shields.io/badge/Docker-89dceb?style=for-the-badge&logo=docker&logoColor=1e1e2e" alt="Docker"/>
   <img src="https://img.shields.io/badge/Vercel-cba6f7?style=for-the-badge&logo=vercel&logoColor=1e1e2e" alt="Vercel"/>
   <img src="https://img.shields.io/badge/PostgreSQL-f5c2e7?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Neo4j-94e2d5?style=for-the-badge&logo=neo4j&logoColor=1e1e2e" alt="Neo4j"/>
 </p>

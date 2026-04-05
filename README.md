@@ -7,7 +7,5 @@
 
 ## What I'm Building
 
-- **Agentic document pipelines** at [AVRillo](https://avrillo.co.uk) — OCR, classification, extraction across 8+ systems for legal conveyancing
-- **Conversation intelligence** — real-time call transcription and sales coaching
-- **AI gateway** bridging email, queues, and case management for legal workflows
-- **This portfolio site** — Django, Three.js, a terminal idle game, and an unreasonable amount of CSS
+- **AI Specialist** at [AVRillo](https://avrillo.co.uk) — R&D for the UK's largest conveyancing firm
+- **[alexander-carter.co.uk](https://alexander-carter.co.uk)** — portfolio site with a fake Twitter, a real terminal, and an idle game you can't quit

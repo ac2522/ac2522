@@ -24,19 +24,28 @@
 
 ## Tech Stack
 
-<p align="center"><sub><strong>AI / ML</strong></sub></p>
+<p align="center"><sub><strong>Languages</strong></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-b4befe?style=for-the-badge&logo=python&logoColor=1e1e2e" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-f38ba8?style=for-the-badge&logo=pytorch&logoColor=1e1e2e" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/LangChain-cba6f7?style=for-the-badge&logo=langchain&logoColor=1e1e2e" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/PHP-cba6f7?style=for-the-badge&logo=php&logoColor=1e1e2e" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=1e1e2e" alt="JavaScript"/>
 </p>
 
-<p align="center"><sub><strong>Web</strong></sub></p>
+<p align="center"><sub><strong>Backend</strong></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Django-a6e3a1?style=for-the-badge&logo=django&logoColor=1e1e2e" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-94e2d5?style=for-the-badge&logo=fastapi&logoColor=1e1e2e" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Laravel-fab387?style=for-the-badge&logo=laravel&logoColor=1e1e2e" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Playwright-f9e2af?style=for-the-badge&logo=playwright&logoColor=1e1e2e" alt="Playwright"/>
+</p>
+
+<p align="center"><sub><strong>AI / ML</strong></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-f38ba8?style=for-the-badge&logo=pytorch&logoColor=1e1e2e" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/LangChain-cba6f7?style=for-the-badge&logo=langchain&logoColor=1e1e2e" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-b4befe?style=for-the-badge&logo=langchain&logoColor=1e1e2e" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-89b4fa?style=for-the-badge&logo=googlecloud&logoColor=1e1e2e" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/n8n-f5c2e7?style=for-the-badge&logo=n8n&logoColor=1e1e2e" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenSpiel-94e2d5?style=for-the-badge&logo=deepmind&logoColor=1e1e2e" alt="OpenSpiel"/>
 </p>
 
 <p align="center"><sub><strong>Cloud</strong></sub></p>
@@ -53,4 +62,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-f5c2e7?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Neo4j-94e2d5?style=for-the-badge&logo=neo4j&logoColor=1e1e2e" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/SQLite-f9e2af?style=for-the-badge&logo=sqlite&logoColor=1e1e2e" alt="SQLite"/>
+</p>
+
+<p align="center"><sub><strong>Tools</strong></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-a6e3a1?style=for-the-badge&logo=playwright&logoColor=1e1e2e" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Three.js-f38ba8?style=for-the-badge&logo=threedotjs&logoColor=1e1e2e" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-89b4fa?style=for-the-badge&logo=githubactions&logoColor=1e1e2e" alt="GitHub Actions"/>
 </p>

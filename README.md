@@ -75,10 +75,5 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-89b4fa?style=for-the-badge&logo=githubactions&logoColor=1e1e2e" alt="GitHub Actions"/>
 </p>
 
----
-
-<h2 align="center">
-  <a href="https://alexander-carter.co.uk"><img src="https://raw.githubusercontent.com/ac2522/ac2522/main/banner-dark.svg" alt="alexander-carter.co.uk" width="620" /></a>
-</h2>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b4befe,40:45475a,70:313244,100:1e1e2e&height=120&section=footer" />

@@ -17,3 +17,13 @@
 
 - **AI Specialist** at [AVRillo R&D](https://avrillo.co.uk) — automation for the UK's largest conveyancing firm
 - **[alexander-carter.co.uk](https://alexander-carter.co.uk)** — portfolio site with a fake Twitter, a real terminal, and an idle game you can't quit
+
+## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,fastapi,pytorch,laravel&theme=dark" alt="Languages & Frameworks"/></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="48"/>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,githubactions,postgres,sqlite,terraform,kubernetes&theme=dark" alt="Infrastructure & Tools"/></a>
+</p>

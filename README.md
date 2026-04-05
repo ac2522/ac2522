@@ -5,6 +5,14 @@
   <a href="https://alexander-carter.co.uk"><img src="https://img.shields.io/badge/Portfolio-cba6f7?style=for-the-badge&logo=safari&logoColor=1e1e2e" alt="Website"/></a>
 </p>
 
+<p align="center">
+  <a href="https://alexander-carter.co.uk/terminal/?no_time_for_this_bs"><img src="https://img.shields.io/badge/Gamer-a6e3a1?style=for-the-badge&logo=windowsterminal&logoColor=1e1e2e" alt="Gamer"/></a>&nbsp;
+  <a href="https://alexander-carter.co.uk/drive.google/?no_time_for_this_bs"><img src="https://img.shields.io/badge/Writer-89b4fa?style=for-the-badge&logo=googledocs&logoColor=1e1e2e" alt="Writer"/></a>&nbsp;
+  <a href="https://alexander-carter.co.uk/youtube/?no_time_for_this_bs"><img src="https://img.shields.io/badge/Cinematography-f38ba8?style=for-the-badge&logo=youtube&logoColor=1e1e2e" alt="Cinematography"/></a>&nbsp;
+  <a href="https://alexander-carter.co.uk/terminal/?no_time_for_this_bs&chat"><img src="https://img.shields.io/badge/Chatbot-f9e2af?style=for-the-badge&logo=openai&logoColor=1e1e2e" alt="Chatbot"/></a>&nbsp;
+  <a href="https://alexander-carter.co.uk/twitter/?no_time_for_this_bs"><img src="https://img.shields.io/badge/Bored-94e2d5?style=for-the-badge&logo=x&logoColor=1e1e2e" alt="Bored"/></a>
+</p>
+
 ## What I'm Building
 
 - **AI Specialist** at [AVRillo R&D](https://avrillo.co.uk) — automation for the UK's largest conveyancing firm

@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,30:313244,60:45475a,100:b4befe&height=220&section=header&text=Alexander%20Carter&fontSize=50&fontColor=cdd6f4&fontAlignY=35&desc=AI%20engineer.%20Automating%20the%20parts%20of%20skilled%20work%20that%20shouldn%27t%20need%20a%20human.&descSize=16&descColor=bac2de&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,30:313244,60:45475a,100:b4befe&height=220&section=header&text=Alexander%20Carter&fontSize=50&fontColor=cdd6f4&fontAlignY=35&animation=fadeIn" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4BEFE&center=true&vCenter=true&width=500&lines=AI+%26+Automation+Engineer;Building+agentic+pipelines;Python+%7C+Django+%7C+FastAPI+%7C+LangChain;Always+building%2C+always+shipping" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ac2522/"><img src="https://img.shields.io/badge/LinkedIn-b4befe?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"/></a>&nbsp;
@@ -21,9 +25,20 @@
 ## Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,fastapi,pytorch,laravel&theme=dark" alt="Languages & Frameworks"/></a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="48"/>
+  <img src="https://img.shields.io/badge/Python-b4befe?style=for-the-badge&logo=python&logoColor=1e1e2e" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-a6e3a1?style=for-the-badge&logo=django&logoColor=1e1e2e" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-94e2d5?style=for-the-badge&logo=fastapi&logoColor=1e1e2e" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PyTorch-f38ba8?style=for-the-badge&logo=pytorch&logoColor=1e1e2e" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/LangChain-cba6f7?style=for-the-badge&logo=langchain&logoColor=1e1e2e" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Laravel-fab387?style=for-the-badge&logo=laravel&logoColor=1e1e2e" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Playwright-f9e2af?style=for-the-badge&logo=playwright&logoColor=1e1e2e" alt="Playwright"/>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,githubactions,postgres,sqlite,terraform,kubernetes&theme=dark" alt="Infrastructure & Tools"/></a>
+  <img src="https://img.shields.io/badge/AWS-89b4fa?style=for-the-badge&logo=amazonwebservices&logoColor=1e1e2e" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-74c7ec?style=for-the-badge&logo=microsoftazure&logoColor=1e1e2e" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Terraform-a6e3a1?style=for-the-badge&logo=terraform&logoColor=1e1e2e" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Kubernetes-b4befe?style=for-the-badge&logo=kubernetes&logoColor=1e1e2e" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-89dceb?style=for-the-badge&logo=docker&logoColor=1e1e2e" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-cba6f7?style=for-the-badge&logo=vercel&logoColor=1e1e2e" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-f5c2e7?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" alt="PostgreSQL"/>
 </p>

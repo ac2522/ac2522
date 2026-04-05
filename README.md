@@ -7,5 +7,5 @@
 
 ## What I'm Building
 
-- **AI Specialist** at [AVRillo](https://avrillo.co.uk) — R&D for the UK's largest conveyancing firm
+- **AI Specialist** at [AVRillo R&D](https://avrillo.co.uk) — automation for the UK's largest conveyancing firm
 - **[alexander-carter.co.uk](https://alexander-carter.co.uk)** — portfolio site with a fake Twitter, a real terminal, and an idle game you can't quit

@@ -43,9 +43,10 @@
   <img src="https://img.shields.io/badge/PyTorch-f38ba8?style=for-the-badge&logo=pytorch&logoColor=1e1e2e" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/LangChain-cba6f7?style=for-the-badge&logo=langchain&logoColor=1e1e2e" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-b4befe?style=for-the-badge&logo=langchain&logoColor=1e1e2e" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Vertex%20AI-89b4fa?style=for-the-badge&logo=googlecloud&logoColor=1e1e2e" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/Vertex-89b4fa?style=for-the-badge&logo=googlecloud&logoColor=1e1e2e" alt="Vertex"/>
   <img src="https://img.shields.io/badge/n8n-f5c2e7?style=for-the-badge&logo=n8n&logoColor=1e1e2e" alt="n8n"/>
   <img src="https://img.shields.io/badge/OpenSpiel-94e2d5?style=for-the-badge&logo=deepmind&logoColor=1e1e2e" alt="OpenSpiel"/>
+  <img src="https://img.shields.io/badge/MCP-fab387?style=for-the-badge&logo=anthropic&logoColor=1e1e2e" alt="MCP"/>
 </p>
 
 <p align="center"><sub><strong>Cloud</strong></sub></p>
@@ -68,6 +69,8 @@
 <p align="center"><sub><strong>Tools</strong></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Playwright-a6e3a1?style=for-the-badge&logo=playwright&logoColor=1e1e2e" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Three.js-f38ba8?style=for-the-badge&logo=threedotjs&logoColor=1e1e2e" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/Pytest-f38ba8?style=for-the-badge&logo=pytest&logoColor=1e1e2e" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Jest-cba6f7?style=for-the-badge&logo=jest&logoColor=1e1e2e" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Pest-f9e2af?style=for-the-badge&logo=php&logoColor=1e1e2e" alt="Pest"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-89b4fa?style=for-the-badge&logo=githubactions&logoColor=1e1e2e" alt="GitHub Actions"/>
 </p>

@@ -24,15 +24,22 @@
 
 ## Tech Stack
 
+<p align="center"><sub><strong>AI / ML</strong></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-b4befe?style=for-the-badge&logo=python&logoColor=1e1e2e" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-a6e3a1?style=for-the-badge&logo=django&logoColor=1e1e2e" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-94e2d5?style=for-the-badge&logo=fastapi&logoColor=1e1e2e" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/PyTorch-f38ba8?style=for-the-badge&logo=pytorch&logoColor=1e1e2e" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/LangChain-cba6f7?style=for-the-badge&logo=langchain&logoColor=1e1e2e" alt="LangChain"/>
+</p>
+
+<p align="center"><sub><strong>Web</strong></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-a6e3a1?style=for-the-badge&logo=django&logoColor=1e1e2e" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-94e2d5?style=for-the-badge&logo=fastapi&logoColor=1e1e2e" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Laravel-fab387?style=for-the-badge&logo=laravel&logoColor=1e1e2e" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Playwright-f9e2af?style=for-the-badge&logo=playwright&logoColor=1e1e2e" alt="Playwright"/>
 </p>
+
+<p align="center"><sub><strong>Cloud</strong></sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-89b4fa?style=for-the-badge&logo=amazonwebservices&logoColor=1e1e2e" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-74c7ec?style=for-the-badge&logo=microsoftazure&logoColor=1e1e2e" alt="Azure"/>
@@ -40,6 +47,10 @@
   <img src="https://img.shields.io/badge/Kubernetes-b4befe?style=for-the-badge&logo=kubernetes&logoColor=1e1e2e" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-89dceb?style=for-the-badge&logo=docker&logoColor=1e1e2e" alt="Docker"/>
   <img src="https://img.shields.io/badge/Vercel-cba6f7?style=for-the-badge&logo=vercel&logoColor=1e1e2e" alt="Vercel"/>
+</p>
+
+<p align="center"><sub><strong>Data</strong></sub></p>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-f5c2e7?style=for-the-badge&logo=postgresql&logoColor=1e1e2e" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Neo4j-94e2d5?style=for-the-badge&logo=neo4j&logoColor=1e1e2e" alt="Neo4j"/>
 </p>
